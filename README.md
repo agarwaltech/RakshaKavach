@@ -20,11 +20,7 @@ include safety reminders, quizzes, incident reporting, and a safety score system
 • Safety Score tracking system.
 5. Technologies Used
 • Android Studio
-• Kotlin / Java
-• Room Database
-• Lottie Animations
-• Firebase (optional)
-• Material UI Components
+• Kotlin 
 6. Expected Outcome
 The application will help reduce workplace accidents, improve awareness about safety equipment, and encourage
 a safety-first mindset among workers in factories and construction sites.
